@@ -11,11 +11,7 @@
     "price": 11,
     "restaurant_id": 1
 },
-  "name": "Margherita",
-   "ingredients": "Tomato, Mozzarella, Basil" },
-  { "id": 2, "name": 
-  "Pepperoni",
-   "ingredients": "Tomato, Mozzarella, Pepperoni" },
+ 
   {
     "id": 3,
     "price": 12,
