@@ -1,0 +1,35 @@
+[
+{ "id": 1, 
+    "name": "Margherita",
+    "ingredients": "Tomato, Mozzarella, Basil",
+    "price": 10,
+    "restaurant_id": 1
+},
+{ "id": 2, 
+    "name": "Pepperoni",
+    "ingredients": "Tomato, Mozzarella, Pepperoni",
+    "price": 11,
+    "restaurant_id": 1
+},
+  "name": "Margherita",
+   "ingredients": "Tomato, Mozzarella, Basil" },
+  { "id": 2, "name": 
+  "Pepperoni",
+   "ingredients": "Tomato, Mozzarella, Pepperoni" },
+  {
+    "id": 3,
+    "price": 12,
+    "pizza_id": 1,
+    "restaurant_id": 2,
+    "pizza": {
+      "id": 1,
+      "name": "Margherita",
+      "ingredients": "Tomato, Mozzarella, Basil"
+    },
+    "restaurant": {
+      "id": 2,
+      "name": "Luigi's",
+      "address": "456 Side St"
+    }
+  }
+]
